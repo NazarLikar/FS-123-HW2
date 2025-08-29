@@ -50,6 +50,11 @@ a {
     color: #404bbf;
 }
 
+.header_nav_list :hover{
+    color: #404bbf;
+    outline: none;
+}
+
 .header_address_list {
     color: #434455;
     font-weight: 400;
@@ -57,6 +62,15 @@ a {
     line-height: 150%;
     letter-spacing: 0.02em;
     font-style: normal;
+}
+
+.header_address_list :hover{
+    color: #404bbf;
+}
+
+.header_address_list :focus{
+    color: #404bbf;
+    outline: none;
 }
 
 /*----------------Main----------------*/
