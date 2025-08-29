@@ -25,10 +25,22 @@ a {
 
 .logo_Studio {
     color: #2e2f42;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
 }
 
 .logo_Web {
     color: #4d5ae5;  
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
 }
 
 .header_nav_list {
