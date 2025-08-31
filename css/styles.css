@@ -41,9 +41,6 @@ a {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    text-decoration: none;
-    transition: color 0.3s ease;
-    
 }
 
 .header_nav_list :hover{
@@ -78,11 +75,11 @@ a {
 
 /*----------------Main----------------*/
 
-.main_section_1 {
+.main_section_one {
     background-color: #2e2f42;
 }
 
-.title_section_1_h1 {
+.title_section_one {
     color: #ffffff;
     font-weight: 700;
     font-size: 56px;
@@ -102,7 +99,7 @@ a {
     font-family: "Roboto", sans-serif;
 }
 
-.main_title_section_2 {
+.main_title_section_two {
     font-weight: 700;
     font-size: 35px;
     line-height: 120%;
@@ -110,7 +107,7 @@ a {
     color: #2e2f42;
 }
 
-.main_section_2_h3 {
+.main_section_two_title_list {
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -119,7 +116,7 @@ a {
     line-height: 1.2;
 }
 
-.main_section_2_text_list {
+.main_section_two_text_list {
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-weight: 400;
@@ -128,11 +125,11 @@ a {
     color: #434455;
 }
 
-.main_section_3 {
+.main_section_three {
     background-color: #f4f4fd;
 }
 
-.main_title_section_3 {
+.main_title_section_three {
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
@@ -142,11 +139,11 @@ a {
     text-transform: capitalize;
 }
 
-.main_section_3_list{
+.main_section_three_list {
     background-color: #ffffff;
 }
 
-.main_section_3_h3 {
+.main_section_three_title_list {
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -155,7 +152,7 @@ a {
     color: #2e2f42;
 }
 
-.main_section_3_text_list {
+.main_section_three_text_list {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
@@ -164,7 +161,7 @@ a {
     color: #434455;
 }
 
-.main_title_section_4 {
+.main_title_section_four {
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
@@ -174,7 +171,7 @@ a {
     text-transform: capitalize
 }
 
-.main_section_4_h3 {
+.main_section_four_title_list {
     color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
@@ -182,7 +179,7 @@ a {
     letter-spacing: 0.02em;
 }
 
-.main_section_4_text_list {
+.main_section_four_text_list {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
