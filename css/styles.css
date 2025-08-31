@@ -78,11 +78,11 @@ a {
 
 /*----------------Main----------------*/
 
-.main_section1 {
+.main_section_1 {
     background-color: #2e2f42;
 }
 
-.title_section1_h1 {
+.title_section_1_h1 {
     color: #ffffff;
     font-weight: 700;
     font-size: 56px;
@@ -102,7 +102,7 @@ a {
     font-family: "Roboto", sans-serif;
 }
 
-.main_title_section2 {
+.main_title_section_2 {
     font-weight: 700;
     font-size: 35px;
     line-height: 120%;
@@ -110,7 +110,7 @@ a {
     color: #2e2f42;
 }
 
-.main_section2_h3 {
+.main_section_2_h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -119,20 +119,20 @@ a {
     line-height: 1.2;
 }
 
-.main_section2_text_list {
+.main_section_2_text_list {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
-    letter-spacing: 0.02em;
     color: #434455;
-    line-height: 1.5;
 }
 
-.main_section3 {
+.main_section_3 {
     background-color: #f4f4fd;
 }
 
-.main_title_section3 {
+.main_title_section_3 {
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
@@ -142,7 +142,7 @@ a {
     text-transform: capitalize;
 }
 
-.main_section3_h3 {
+.main_section_3_h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -152,7 +152,7 @@ a {
     background-color: #FFFFFF
 }
 
-.main_section3_text_list {
+.main_section_3_text_list {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
@@ -162,7 +162,7 @@ a {
     background-color: #FFFFFF
 }
 
-.main_title_section4 {
+.main_title_section_4 {
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
@@ -172,7 +172,7 @@ a {
     text-transform: capitalize
 }
 
-.main_section4_h3 {
+.main_section_4_h3 {
     color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
@@ -180,7 +180,7 @@ a {
     letter-spacing: 0.02em;
 }
 
-.main_section4_text_list {
+.main_section_4_text_list {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
