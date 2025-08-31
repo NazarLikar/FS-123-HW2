@@ -142,6 +142,10 @@ a {
     text-transform: capitalize;
 }
 
+.main_section_3_list{
+    background-color: #ffffff;
+}
+
 .main_section_3_h3 {
     font-weight: 500;
     font-size: 20px;
@@ -149,7 +153,6 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    background-color: #FFFFFF
 }
 
 .main_section_3_text_list {
@@ -159,7 +162,6 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    background-color: #FFFFFF
 }
 
 .main_title_section_4 {
