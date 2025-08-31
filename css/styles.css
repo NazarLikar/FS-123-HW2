@@ -36,13 +36,11 @@ a {
 
 
 .header_nav_list {
-    color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    text-decoration: none;
-    transition: color 0.3s ease;
+    color: #2e2f42;
 }
 
 .header_nav_list:hover,
@@ -56,13 +54,11 @@ a {
 }
 
 .header_address_list {
-    color: #434455;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    text-decoration: none;
-    transition: color 0.3s ease;
+    color: #434455;
 }
 
 .header_address_list:hover,
@@ -94,8 +90,6 @@ a {
     background-color: #4d5ae5;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
-    text-decoration: none;
-    transition: color 0.3s ease;
 }
 
 .button_order_service:hover,
