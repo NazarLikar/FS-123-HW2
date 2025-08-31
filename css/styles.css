@@ -43,13 +43,10 @@ a {
     letter-spacing: 0.02em;
 }
 
-.header_nav_list :hover{
-    color: #404bbf;
-}
-
+.header_nav_list :hover,
 .header_nav_list :focus{
     color: #404bbf;
-    outline: none;
+
 }
 
 .header_address {
@@ -64,13 +61,9 @@ a {
     letter-spacing: 0.02em;
 }
 
-.header_address_list :hover{
-    color: #404bbf;
-}
-
+.header_address_list :hover,
 .header_address_list :focus{
     color: #404bbf;
-    outline: none;
 }
 
 /*----------------Main----------------*/
