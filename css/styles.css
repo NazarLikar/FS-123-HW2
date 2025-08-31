@@ -41,10 +41,12 @@ a {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
 
-.header_nav_list :hover,
-.header_nav_list :focus{
+.header_nav_list:hover,
+.header_nav_list:focus{
     color: #404bbf;
 
 }
@@ -59,10 +61,12 @@ a {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
 
-.header_address_list :hover,
-.header_address_list :focus{
+.header_address_list:hover,
+.header_address_list:focus{
     color: #404bbf;
 }
 
@@ -90,6 +94,13 @@ a {
     background-color: #4d5ae5;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.button_order_service:hover,
+.button_order_service:focus{
+    background-color: #404bbf;
 }
 
 .main_title_section_two {
