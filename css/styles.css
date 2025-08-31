@@ -41,17 +41,23 @@ a {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    
 }
 
-.header_nav_list :hover,
-.header_nav_list :focus{
+.header_nav_list :hover{
     color: #404bbf;
 }
 
-.header_nav_list{
-    color: #434455;
+.header_nav_list :focus{
+    color: #404bbf;
+    outline: none;
 }
 
+.header_address {
+    font-style: normal;
+}
 
 .header_address_list {
     color: #434455;
@@ -62,15 +68,13 @@ a {
     font-style: normal;
 }
 
-
-
-.header_address_list :hover,
-.header_address_list :focus {
+.header_address_list :hover{
     color: #404bbf;
 }
 
-.header_address_list {
-    color: #434455;
+.header_address_list :focus{
+    color: #404bbf;
+    outline: none;
 }
 
 /*----------------Main----------------*/
