@@ -65,7 +65,6 @@ a {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    font-style: normal;
 }
 
 .header_address_list :hover{
@@ -92,7 +91,7 @@ a {
     text-align: center;
 }
 
-.button_Order_Service {
+.button_order_service {
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
